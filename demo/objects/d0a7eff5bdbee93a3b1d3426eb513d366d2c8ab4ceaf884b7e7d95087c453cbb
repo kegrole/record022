@@ -1,0 +1,5 @@
+{
+  "debug": false,
+  "host": "example.com",
+  "port": 9090
+}

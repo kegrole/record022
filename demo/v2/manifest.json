@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "added.txt": {
+      "sha256": "04024aa298d3abffcd9a549115403148405b5453a30359ba9d44abb1c62c563d",
+      "type": "text"
+    },
+    "config.json": {
+      "sha256": "d0a7eff5bdbee93a3b1d3426eb513d366d2c8ab4ceaf884b7e7d95087c453cbb",
+      "type": "json"
+    },
+    "notes.txt": {
+      "sha256": "383d1028f29e082cebc1c676864be411114ad53e7e9d1cc5584e9798851496a1",
+      "type": "text"
+    },
+    "same.txt": {
+      "sha256": "49353eaacd19a5ba042815b1b0632a719e62d130b0d4c8f2480acc55243bc9d8",
+      "type": "text"
+    }
+  },
+  "version": 1
+}

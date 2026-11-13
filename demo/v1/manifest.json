@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "config.json": {
+      "sha256": "01e2b2e75e7389cd803091755f14ef456b1b5cf051e68e3b6b81b5bea37f44da",
+      "type": "json"
+    },
+    "notes.txt": {
+      "sha256": "4fdbc441ea7b546100e086ac1e4fc5ae6749b7314311c99db05be450eca12996",
+      "type": "text"
+    },
+    "removed.txt": {
+      "sha256": "9a59accfbf116b7032488d2cb413e02966075ea427347bcfa476568caaf36c18",
+      "type": "text"
+    },
+    "same.txt": {
+      "sha256": "49353eaacd19a5ba042815b1b0632a719e62d130b0d4c8f2480acc55243bc9d8",
+      "type": "text"
+    }
+  },
+  "version": 1
+}
